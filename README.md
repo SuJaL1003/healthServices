@@ -6,8 +6,8 @@ This project is a Node.js API for managing healthcare services.
 
 ### Prerequisites
 
-- Node.js (>= 14.x)
-- MongoDB instance
+- Node.js
+- MongoDB
 
 ### Installation
 
